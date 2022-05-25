@@ -1,2 +1,2 @@
 # ZTS-Prac
-I am a team member of Zakariyan Tech Society (ZTS)
+I am a team member of Zakariyan Tech Society (ZTS). I am learning programming in C and C++ languages. Zakariyan Tech Society is a platform which provides the basic computer knowledge to engineering and non-engineering students which help them out in their future career. I have learnt much more concepts of programming from the core team of the society. We must participate in this society to get knowledge of computer and spread it among the nation.
